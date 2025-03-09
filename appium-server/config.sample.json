@@ -1,0 +1,7 @@
+{
+  "appium:automationName": "UiAutomator2",
+  "platformName": "Android",
+  "appium:platformVersion": "15",
+  "appium:deviceName": "emulator-5554",
+  "appium:app": "/home/androidusr/data/apk/ApiDemos-debug.apk"
+}
