@@ -1,0 +1,7 @@
+services:
+  appium_server:
+    build: ./appium
+    container_name: rf_appium_playground_appium_server
+    network_mode: host
+    volumes:
+      - ./appium/data:/home/androidusr/data
